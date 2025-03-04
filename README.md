@@ -1,4 +1,4 @@
-# Hover Sound Bug
+# Tap Sound Bug
 
 This VisionOS project demonstrates the lack of a system sound when a tap gesture has been added to a 3D entity in a RealityView in contrast to a SwiftUI attachment that will play a system pick sound when the Test button is tapped.
 
